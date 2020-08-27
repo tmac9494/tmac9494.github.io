@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.21aefd57.chunk.css",
-    "main.js": "/static/js/main.28414b3b.chunk.js",
-    "main.js.map": "/static/js/main.28414b3b.chunk.js.map",
+    "main.css": "/static/css/main.b810431d.chunk.css",
+    "main.js": "/static/js/main.c28e4f76.chunk.js",
+    "main.js.map": "/static/js/main.c28e4f76.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.42fb1fec.js",
     "runtime-main.js.map": "/static/js/runtime-main.42fb1fec.js.map",
     "static/js/2.9e5ca383.chunk.js": "/static/js/2.9e5ca383.chunk.js",
     "static/js/2.9e5ca383.chunk.js.map": "/static/js/2.9e5ca383.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.494eadde0d6be438d20873734247a64c.js": "/precache-manifest.494eadde0d6be438d20873734247a64c.js",
+    "precache-manifest.36c19ccb8ae9e5e1fb6f22d0857cdadb.js": "/precache-manifest.36c19ccb8ae9e5e1fb6f22d0857cdadb.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.21aefd57.chunk.css.map": "/static/css/main.21aefd57.chunk.css.map",
+    "static/css/main.b810431d.chunk.css.map": "/static/css/main.b810431d.chunk.css.map",
     "static/js/2.9e5ca383.chunk.js.LICENSE.txt": "/static/js/2.9e5ca383.chunk.js.LICENSE.txt",
     "static/media/3js.png": "/static/media/3js.a3fa5e08.png",
     "static/media/arrow-back.6b09b62e.svg": "/static/media/arrow-back.6b09b62e.svg",
@@ -49,8 +49,8 @@
     "static/media/res-circ-top.e9b70691.svg": "/static/media/res-circ-top.e9b70691.svg",
     "static/media/safety-first.jpg": "/static/media/safety-first.ee03005a.jpg",
     "static/media/sass.png": "/static/media/sass.ee183e76.png",
-    "static/media/skill-blob-lg.3d4148eb.svg": "/static/media/skill-blob-lg.3d4148eb.svg",
-    "static/media/skill-blob-sm.97994aa2.svg": "/static/media/skill-blob-sm.97994aa2.svg",
+    "static/media/skill-blob-lg.976255f7.svg": "/static/media/skill-blob-lg.976255f7.svg",
+    "static/media/skill-blob-sm.b2443fee.svg": "/static/media/skill-blob-sm.b2443fee.svg",
     "static/media/sso.PNG": "/static/media/sso.b73271f2.PNG",
     "static/media/standard-logo.svg": "/static/media/standard-logo.e0aac827.svg",
     "static/media/standard.PNG": "/static/media/standard.c7cc19c8.PNG",
@@ -68,7 +68,7 @@
   "entrypoints": [
     "static/js/runtime-main.42fb1fec.js",
     "static/js/2.9e5ca383.chunk.js",
-    "static/css/main.21aefd57.chunk.css",
-    "static/js/main.28414b3b.chunk.js"
+    "static/css/main.b810431d.chunk.css",
+    "static/js/main.c28e4f76.chunk.js"
   ]
 }
