@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.9ce42da9.css",
-    "main.js": "/static/js/main.faedd091.js",
-    "static/media/drayton.PNG": "/static/media/drayton.02640ec376dbffe91786.PNG",
-    "static/media/standard.PNG": "/static/media/standard.10761a5f3f9bdc2f5a45.PNG",
-    "static/media/xperttrial.PNG": "/static/media/xperttrial.1d66e8f4da2d451d0996.PNG",
+    "main.css": "/static/css/main.ecb8236b.css",
+    "main.js": "/static/js/main.ec92e87f.js",
+    "static/media/drayton.png": "/static/media/drayton.02640ec376dbffe91786.png",
+    "static/media/standard.png": "/static/media/standard.10761a5f3f9bdc2f5a45.png",
+    "static/media/xperttrial.png": "/static/media/xperttrial.1d66e8f4da2d451d0996.png",
     "static/media/humble2.jpg": "/static/media/humble2.f9035e0058ff708a6acb.jpg",
-    "static/media/xpertscreen.PNG": "/static/media/xpertscreen.e926181bb3a4bf19c26c.PNG",
+    "static/media/xpertscreen.png": "/static/media/xpertscreen.e926181bb3a4bf19c26c.png",
     "static/media/college.jpg": "/static/media/college.611a84413b64efa00ad3.jpg",
     "static/media/gcio.jpg": "/static/media/gcio.c2eb6f737c3134c7d0f9.jpg",
-    "static/media/xpertconsole.PNG": "/static/media/xpertconsole.46edc85466136a5eede9.PNG",
+    "static/media/xpertconsole.png": "/static/media/xpertconsole.46edc85466136a5eede9.png",
+    "static/media/gql.png": "/static/media/gql.cf35cb3ebe58ba07ecd0.png",
     "static/media/hope2.jpg": "/static/media/hope2.3317c54b309014208405.jpg",
     "static/media/childhood5.jpg": "/static/media/childhood5.a2807d7f5f95a4a75fa2.jpg",
     "static/media/humble3.jpg": "/static/media/humble3.0c7aaa8a5ad4059d5366.jpg",
+    "static/media/visx.png": "/static/media/visx.d1af736e987f738b1b03.png",
     "static/media/childhood1.jpg": "/static/media/childhood1.97721e13c980e890d6a5.jpg",
-    "static/media/sso.PNG": "/static/media/sso.bc959a4dda03b441e74b.PNG",
+    "static/media/sso.png": "/static/media/sso.bc959a4dda03b441e74b.png",
     "static/media/childhood10.jpg": "/static/media/childhood10.a2934e4d7ca8dfa4716c.jpg",
     "static/media/svm.png": "/static/media/svm.4b2bb7f7e7b41cecf5ac.png",
     "static/media/college2.jpg": "/static/media/college2.cc512fab67c537b961d1.jpg",
@@ -51,6 +53,7 @@
     "static/media/plussum.png": "/static/media/plussum.2c0698b33f3a7e3ad804.png",
     "static/media/mongo.png": "/static/media/mongo.bff9dc4078bcc268bff3.png",
     "static/media/mit.png": "/static/media/mit.428f2eb0447f21596825.png",
+    "static/media/express.png": "/static/media/express.7a2e473de9afcf0e2fef.png",
     "static/media/evernote-logo.png": "/static/media/evernote-logo.1281475a520ce467225b.png",
     "static/media/xd-logo.svg": "/static/media/xd-logo.39fea9372d59d7d6df6349660099112d.svg",
     "static/media/carallel_logo.svg": "/static/media/carallel_logo.f0c97a9f1acafa5783299a309e1e413f.svg",
@@ -79,11 +82,11 @@
     "static/media/search.svg": "/static/media/search.c3a9b743b3bfe662b7143a41bc6656cd.svg",
     "static/media/star.svg": "/static/media/star.91224391cb2252f37538b0295da00a2d.svg",
     "static/media/close.svg": "/static/media/close.55fac31e703ad0d262641ce2b6ee6f40.svg",
-    "main.9ce42da9.css.map": "/static/css/main.9ce42da9.css.map",
-    "main.faedd091.js.map": "/static/js/main.faedd091.js.map"
+    "main.ecb8236b.css.map": "/static/css/main.ecb8236b.css.map",
+    "main.ec92e87f.js.map": "/static/js/main.ec92e87f.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ce42da9.css",
-    "static/js/main.faedd091.js"
+    "static/css/main.ecb8236b.css",
+    "static/js/main.ec92e87f.js"
   ]
 }

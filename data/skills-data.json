@@ -25,6 +25,7 @@
     ],
     "yearsOfExp": 10
   },
+
   {
     "title": "React Native",
     "level": 4,
@@ -39,6 +40,7 @@
     ],
     "yearsOfExp": 4
   },
+
   {
     "title": "Node JS",
     "level": 5,
@@ -54,6 +56,7 @@
     ],
     "yearsOfExp": 7
   },
+
   {
     "title": "Redux",
     "level": 4,
@@ -67,6 +70,7 @@
     ],
     "yearsOfExp": 5
   },
+
   {
     "title": "TypeScript",
     "level": 4,
@@ -81,9 +85,10 @@
     ],
     "yearsOfExp": 4
   },
+
   {
     "title": "Three JS",
-    "level": 4,
+    "level": 3,
     "id": "threejs",
     "tags": ["fw", "hrt", "fe"],
     "companies": ["stnfn"],
@@ -96,6 +101,7 @@
     ],
     "yearsOfExp": 1
   },
+
   {
     "title": "Sass",
     "level": 5,
@@ -120,6 +126,7 @@
     ],
     "yearsOfExp": 10
   },
+
   {
     "title": "Angular",
     "level": 1,
@@ -130,6 +137,7 @@
     "accolades": ["Not much going on here:)"],
     "yearsOfExp": 1
   },
+
   {
     "title": "HTML",
     "level": 5,
@@ -155,6 +163,7 @@
     ],
     "yearsOfExp": 10
   },
+
   {
     "title": "CSS",
     "level": 5,
@@ -180,6 +189,7 @@
     ],
     "yearsOfExp": 10
   },
+
   {
     "title": "JavaScript",
     "level": 5,
@@ -206,6 +216,7 @@
     ],
     "yearsOfExp": 10
   },
+
   {
     "title": "Jquery",
     "level": 4,
@@ -218,6 +229,7 @@
     ],
     "yearsOfExp": 4
   },
+
   {
     "title": "PHP",
     "level": 3,
@@ -232,6 +244,7 @@
     ],
     "yearsOfExp": 4
   },
+
   {
     "title": "MongoDB",
     "level": 4,
@@ -305,10 +318,43 @@
     "title": "Photoshop",
     "level": 3,
     "id": "photoshop",
-    "tags": ["crtv", "tool", "mit"],
-    "companies": ["xpdx", "stnfn", "svm", "ps", "afm"],
+    "tags": ["crtv", "tool"],
+    "companies": ["xpdx", "stnfn", "svm", "ps", "afm", "mit"],
     "description": "A great tool for automatating image processing and quickly making adjustments to photos for design purposes.",
     "accolades": [],
     "yearsOfExp": 6
+  },
+
+  {
+    "title": "Express JS",
+    "level": 4,
+    "id": "express",
+    "tags": ["be", "lib"],
+    "companies": ["xpdx", "stnfn", "mit", "nm", "evern", "gcio"],
+    "description": "Description",
+    "accolades": [],
+    "yearsOfExp": 5
+  },
+
+  {
+    "title": "GraphQL",
+    "level": 3,
+    "id": "graphql",
+    "tags": ["be", "fe", "lib"],
+    "companies": ["nm", "evern"],
+    "description": "Description",
+    "accolades": [],
+    "yearsOfExp": 3
+  },
+
+  {
+    "title": "VisX",
+    "level": 3,
+    "id": "visx",
+    "tags": ["fe", "lib"],
+    "companies": ["nm", "mit"],
+    "description": "Description",
+    "accolades": [],
+    "yearsOfExp": 3
   }
 ]
