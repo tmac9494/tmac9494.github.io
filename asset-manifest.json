@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6bbb8ba9.css",
-    "main.js": "/static/js/main.3c644bc1.js",
+    "main.css": "/static/css/main.dfe98486.css",
+    "main.js": "/static/js/main.c7d831bb.js",
     "static/media/great4.jpg": "/static/media/great4.25f59c54ecda2dcab289.jpg",
     "static/media/great2.jpg": "/static/media/great2.d354a9fadb9a67ef878b.jpg",
     "static/media/ltl3.jpg": "/static/media/ltl3.7126737defc3d1409038.jpg",
@@ -14,6 +14,7 @@
     "static/media/standard.png": "/static/media/standard.10761a5f3f9bdc2f5a45.png",
     "static/media/pt2.jpg": "/static/media/pt2.b36af186765a18c1185c.jpg",
     "static/media/xperttrial.png": "/static/media/xperttrial.1d66e8f4da2d451d0996.png",
+    "static/media/cript.jpg": "/static/media/cript.14408f0fe02f32251f22.jpg",
     "static/media/humble2.jpg": "/static/media/humble2.f9035e0058ff708a6acb.jpg",
     "static/media/xpertscreen.png": "/static/media/xpertscreen.e926181bb3a4bf19c26c.png",
     "static/media/college.jpg": "/static/media/college.611a84413b64efa00ad3.jpg",
@@ -22,6 +23,7 @@
     "static/media/xpertconsole.png": "/static/media/xpertconsole.46edc85466136a5eede9.png",
     "static/media/gql.png": "/static/media/gql.cf35cb3ebe58ba07ecd0.png",
     "static/media/hope2.jpg": "/static/media/hope2.3317c54b309014208405.jpg",
+    "static/media/profile.jpg": "/static/media/profile.6b41374efc9f89e94bb9.jpg",
     "static/media/childhood5.jpg": "/static/media/childhood5.a2807d7f5f95a4a75fa2.jpg",
     "static/media/humble3.jpg": "/static/media/humble3.0c7aaa8a5ad4059d5366.jpg",
     "static/media/visx.png": "/static/media/visx.d1af736e987f738b1b03.png",
@@ -38,7 +40,6 @@
     "static/media/safety-first.jpg": "/static/media/safety-first.b7e5fd8e5d04173af0de.jpg",
     "static/media/boogies.jpg": "/static/media/boogies.17ad74804ac31704e559.jpg",
     "static/media/childhood2.jpg": "/static/media/childhood2.3b0ef823d492eda8feb3.jpg",
-    "static/media/barton.jpg": "/static/media/barton.9ce1306396852fb51438.jpg",
     "static/media/proj-10.jpg": "/static/media/proj-10.afef861684a0ed47603f.jpg",
     "static/media/proj-2.jpg": "/static/media/proj-2.68ba6cb14deaeef13960.jpg",
     "static/media/sass.png": "/static/media/sass.de84c34f61fe480b7c96.png",
@@ -57,6 +58,7 @@
     "static/media/hope3.jpg": "/static/media/hope3.ed95efd9088a5eaae649.jpg",
     "static/media/css.png": "/static/media/css.58dcb903c6c7b84f4b90.png",
     "static/media/gcio-logo.png": "/static/media/gcio-logo.6ce3766ab4406e284d91.png",
+    "static/media/evernote-fav.png": "/static/media/evernote-fav.1208e39be3ac504edbab.png",
     "static/media/wordpress.png": "/static/media/wordpress.10b268dbf7ee88ad10e9.png",
     "static/media/html.png": "/static/media/html.b88b1150238b52622868.png",
     "static/media/jquery.png": "/static/media/jquery.db23ae2723ae9c55c7d8.png",
@@ -72,7 +74,6 @@
     "static/media/ps.svg": "/static/media/ps.60eda61e3cfe863729f83f2f106c1223.svg",
     "static/media/xd.svg": "/static/media/xd.29786ddad4c451d5384fc3465d45c5de.svg",
     "static/media/illustrator.svg": "/static/media/illustrator.a546955fcf0a25d966618958c27022a4.svg",
-    "static/media/evernote.svg": "/static/media/evernote.1829675ca680e80a1f7755196557e0b2.svg",
     "static/media/redux.svg": "/static/media/redux.71eb13e2fdd1de624e9a856125906e3b.svg",
     "index.html": "/index.html",
     "static/media/rect-lg.svg": "/static/media/rect-lg.a18aaf991d4050f848abe29dae3b46af.svg",
@@ -93,11 +94,11 @@
     "static/media/search.svg": "/static/media/search.c3a9b743b3bfe662b7143a41bc6656cd.svg",
     "static/media/star.svg": "/static/media/star.91224391cb2252f37538b0295da00a2d.svg",
     "static/media/close.svg": "/static/media/close.55fac31e703ad0d262641ce2b6ee6f40.svg",
-    "main.6bbb8ba9.css.map": "/static/css/main.6bbb8ba9.css.map",
-    "main.3c644bc1.js.map": "/static/js/main.3c644bc1.js.map"
+    "main.dfe98486.css.map": "/static/css/main.dfe98486.css.map",
+    "main.c7d831bb.js.map": "/static/js/main.c7d831bb.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bbb8ba9.css",
-    "static/js/main.3c644bc1.js"
+    "static/css/main.dfe98486.css",
+    "static/js/main.c7d831bb.js"
   ]
 }
