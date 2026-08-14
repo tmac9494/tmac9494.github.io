@@ -23,7 +23,7 @@
       "Built many applications from the ground up using React.",
       "Experience with React+Electron stacks."
     ],
-    "yearsOfExp": 10,
+    "yearsOfExp": 11,
     "skillColor": "#61DBFB"
   },
 
@@ -56,7 +56,7 @@
       "Created a secure custom SSO API that integrated with Stanford University's Azure server.",
       "Experience managing, architecting, and building a Node API server in a large company intranet."
     ],
-    "yearsOfExp": 7,
+    "yearsOfExp": 8,
     "skillColor": "#3c873a"
   },
 
@@ -80,7 +80,7 @@
     "companies": ["nm", "mit", "evern"],
     "description": "Description",
     "accolades": [],
-    "yearsOfExp": 4,
+    "yearsOfExp": 5,
     "skillColor": "#907f7f"
   },
 
@@ -108,7 +108,7 @@
       "Soley developed multiple JavaScript web applications.",
       "Extensive Experience in JS powered animation techniques."
     ],
-    "yearsOfExp": 10,
+    "yearsOfExp": 11,
     "skillColor": "#ffce00"
   },
 
@@ -139,7 +139,7 @@
       "Experience in Typescript + NodeJS environments.",
       "Linkedin Learning certification in React + Typescript."
     ],
-    "yearsOfExp": 4,
+    "yearsOfExp": 6,
     "skillColor": "#007acc"
   },
 
@@ -195,7 +195,7 @@
       "WCAG focused courses through Team Treehouse Tech Degree.",
       "Experience updating web pages/applications to WCAG compliance."
     ],
-    "yearsOfExp": 10,
+    "yearsOfExp": 11,
     "skillColor": "#e34c26"
   },
 
@@ -222,7 +222,7 @@
       "Extensive experience refactoring and optimizing CSS.",
       "Extensive Experience in CSS in JS patterns."
     ],
-    "yearsOfExp": 10,
+    "yearsOfExp": 11,
     "skillColor": "#264de4"
   },
 
@@ -248,7 +248,7 @@
       "Experience with advanced features of Sass(variables, mixins, functions, etc)",
       "Extensive experience refactoring bloated CSS into Sass."
     ],
-    "yearsOfExp": 10,
+    "yearsOfExp": 11,
     "skillColor": "#c69"
   },
 
@@ -291,8 +291,9 @@
     "description": "My favourite solution for databases. I discovered mongo early in my career and loved how easy it was to understand with a background in JavaScript and OOP.",
     "accolades": [
       "Experience using mongoDB at scale with thousands of DAUs",
-      "Experience with query optimization techniques in the server.",
-      "Experience with MongoDB advanced features like: expireAt and populate(mongoose)"
+      "Experience with query optimization techniques in the server",
+      "Experience with MongoDB advanced features like: expireAt and populate(mongoose)",
+      "Experience working with MongoDB in a cloud architecture using MongoDB Atlas"
     ],
     "yearsOfExp": 5,
     "skillColor": "#3FA037"
@@ -306,7 +307,7 @@
     "companies": ["evern", "gcio", "cara", "xpdx", "stnfn"],
     "description": "Technically I've been working with webpack nearly my entire career but I never dove into the deep technical hows and whys of webpack. I've had some experience optimizing webpack payloads.",
     "accolades": [
-      "Light experience configuring compressed payloads from a SSR environment."
+      "Light experience configuring compressed payloads from a SSR environment"
     ],
     "yearsOfExp": 6,
     "skillColor": "#dedede"
@@ -314,7 +315,7 @@
 
   {
     "title": "Wordpress",
-    "level": 4,
+    "level": 5,
     "id": "wordpress",
     "tags": ["fw", "be", "cms"],
     "companies": ["cara", "xpdx", "stnfn", "svm", "ps", "afm"],
@@ -370,7 +371,7 @@
 
   {
     "title": "GraphQL",
-    "level": 3,
+    "level": 4,
     "id": "graphql",
     "tags": ["be", "fw", "lib"],
     "companies": ["nm", "evern"],
@@ -390,5 +391,21 @@
     "accolades": [],
     "yearsOfExp": 3,
     "skillColor": "#ff5a5f"
+  },
+
+  {
+    "title": "D3",
+    "level": 4,
+    "id": "d3",
+    "tags": ["fe", "lib", "star"],
+    "companies": ["nm", "mit"],
+    "description": "The most comprehensive and powerful data visualization library for the web. I have used D3 to create custom charts and visualizations for data heavy applications.",
+    "accolades": [
+      "Experience leveraging D3 for interactive data visualizations in React/React Native applications.",
+      "Experience creating custom D3 charts and visualizations for React/React Native applications.",
+      "Experience using D3 to create a ground up visualization library for React/React Native applications."
+    ],
+    "yearsOfExp": 3,
+    "skillColor": "#EC8112"
   }
 ]

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a1e2266b.css",
-    "main.js": "/static/js/main.43a43152.js",
+    "main.css": "/static/css/main.fe61e5fe.css",
+    "main.js": "/static/js/main.48e55154.js",
     "static/media/great4.jpg": "/static/media/great4.25f59c54ecda2dcab289.jpg",
     "static/media/great2.jpg": "/static/media/great2.d354a9fadb9a67ef878b.jpg",
     "static/media/ltl3.jpg": "/static/media/ltl3.7126737defc3d1409038.jpg",
@@ -65,6 +65,7 @@
     "static/media/evernote-fav.png": "/static/media/evernote-fav.1208e39be3ac504edbab.png",
     "static/media/wordpress.png": "/static/media/wordpress.10b268dbf7ee88ad10e9.png",
     "static/media/html.png": "/static/media/html.b88b1150238b52622868.png",
+    "static/media/d3.png": "/static/media/d3.0e0a7c55c8b6b1070b7e.png",
     "static/media/jquery.png": "/static/media/jquery.db23ae2723ae9c55c7d8.png",
     "static/media/typescript.png": "/static/media/typescript.8e08c2165d60d7ca62a9.png",
     "static/media/plussum.png": "/static/media/plussum.2c0698b33f3a7e3ad804.png",
@@ -95,11 +96,11 @@
     "static/media/search.svg": "/static/media/search.c3a9b743b3bfe662b7143a41bc6656cd.svg",
     "static/media/star.svg": "/static/media/star.91224391cb2252f37538b0295da00a2d.svg",
     "static/media/close.svg": "/static/media/close.55fac31e703ad0d262641ce2b6ee6f40.svg",
-    "main.a1e2266b.css.map": "/static/css/main.a1e2266b.css.map",
-    "main.43a43152.js.map": "/static/js/main.43a43152.js.map"
+    "main.fe61e5fe.css.map": "/static/css/main.fe61e5fe.css.map",
+    "main.48e55154.js.map": "/static/js/main.48e55154.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1e2266b.css",
-    "static/js/main.43a43152.js"
+    "static/css/main.fe61e5fe.css",
+    "static/js/main.48e55154.js"
   ]
 }
